@@ -28,5 +28,7 @@ npm test
 - `/.github` - CI/CD workflows for testing and deployment
 
 ## Links
-- [Documentation](../mcp-docs)
-- [Examples](../mcp-examples)
+- [Documentation](https://github.com/MyCryptoProtocol/mcp-docs)
+- [Examples](https://github.com/MyCryptoProtocol/mcp-examples)
+- [Agents](https://github.com/MyCryptoProtocol/mcp-agents)
+- [Server](https://github.com/MyCryptoProtocol/mcp-server)
